@@ -1,0 +1,10 @@
+JEE FIGHT - cloud APK build
+
+This project includes .github/workflows/build-apk.yml.
+Upload the contents of this project to a GitHub repository, then open:
+Actions -> Build JEE FIGHT APK -> Run workflow.
+
+The workflow builds app/build/outputs/apk/debug/app-debug.apk and uploads it as:
+JEE-FIGHT-debug
+
+No Android Studio is required on the tablet.
